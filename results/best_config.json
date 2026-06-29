@@ -1,0 +1,13 @@
+{
+  "model": "SVC",
+  "best_params": {
+    "kernel": "linear",
+    "gamma": 0.01,
+    "degree": 2,
+    "C": 0.01
+  },
+  "cv_best_f1": 0.9774,
+  "baseline_test_f1": 0.963,
+  "tuned_test_f1": 0.9725,
+  "gain": 0.0095
+}
